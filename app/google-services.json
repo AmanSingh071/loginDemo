@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587691131650",
+    "firebase_url": "https://logindemo-cbb2a-default-rtdb.firebaseio.com",
+    "project_id": "logindemo-cbb2a",
+    "storage_bucket": "logindemo-cbb2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587691131650:android:9efda73831142ca696f81b",
+        "android_client_info": {
+          "package_name": "com.example.login_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587691131650-ih2u5b7c9sp5vnuqit0fbekvccc8i9rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_demo",
+            "certificate_hash": "f0a45e038cb1fcc35749682b4dbecf33ddf68ac1"
+          }
+        },
+        {
+          "client_id": "587691131650-6stp3s8he9rfrruu719t9pr09agtv2ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpO5B2U2c_bEEDcV6OwiZ2FiWUQXzOZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587691131650-6stp3s8he9rfrruu719t9pr09agtv2ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
